@@ -7,3 +7,4 @@
 * https://java.net/projects/jpa-spec/
 * http://download.oracle.com/otndocs/jcp/persistence-2_1-fr-eval-spec/index.html
 * http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
+* https://en.wikibooks.org/wiki/Java_Persistence
