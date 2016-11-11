@@ -1,5 +1,11 @@
 # Runnable JPA examples
 
+## Alias
+* CriteriaBasics.testAlias
+
+## Property chain.
+* JpaBasics.testOneToOne
+
 # References
 * http://www.objectdb.com/api/java/jpa
 * http://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html
